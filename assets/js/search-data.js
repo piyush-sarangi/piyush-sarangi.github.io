@@ -532,14 +532,14 @@ ninja.data = [{
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/pys_sarangi", "_blank");
+          window.open("https://instagram.com/https://www.instagram.com/pys_sarangi/", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/piyush-sarangi", "_blank");
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/piyush-sarangi/", "_blank");
         },
       },{
         id: 'social-custom_social',
