@@ -546,7 +546,7 @@ ninja.data = [{
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.goodreads.com/user/show/57628556-piyush", "_blank");
         },
       },{
       id: 'light-theme',
