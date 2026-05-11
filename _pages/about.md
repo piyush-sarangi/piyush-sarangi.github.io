@@ -23,7 +23,7 @@ latest_posts:
   <div class="col-sm-7">
 
   {% include figure.liquid
-  path="assets/img/pali_manuscript.jpg"
+  path="assets/img/rhino.png"
   class="img-fluid rounded z-depth-1"
   style="max-width: 75%;"
   zoomable=true
