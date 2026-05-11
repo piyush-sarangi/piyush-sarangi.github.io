@@ -445,6 +445,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/manto/";
+            },},{id: "books-the-godfather",
+          title: 'The Godfather',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/picture-imperfect/";
             },},{id: "books-strange-weather-in-tokyo",
           title: 'Strange Weather in Tokyo',
           description: "",
