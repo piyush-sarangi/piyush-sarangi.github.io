@@ -4,37 +4,32 @@ title: about
 permalink: /
 subtitle: I am a third year Electrical Engineering student at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology, Kharagpur</a>.
 
-<img src="/assets/img/rhino.png" width="180px">
-
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: false
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am interested in Computational Linguistics. Especially in Historical Linguistics and Language Evolution.
+<div class="row">
+  <div class="col-sm-7">
 
+  {% include figure.liquid
+  path="assets/img/pali_manuscript.jpg"
+  class="img-fluid rounded z-depth-1"
+  style="max-width: 75%;"
+  zoomable=true
+  %}
 
-{% include figure.liquid
-loading="eager"
-path="assets/img/rhino.png"
-class="img-fluid rounded z-depth-1"
-zoomable=true
-%}
+  </div>
+</div>
+
+I am interested in Computational Linguistics and Historical Linguistics, with a particular focus on language change in Indo-Aryan languages. My current work explores data-driven approaches to Sanskrit–Prakrit sound correspondences and lexical evolution.
