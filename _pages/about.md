@@ -28,3 +28,11 @@ latest_posts:
 ---
 
 I am interested in Computational Linguistics. Especially in Historical Linguistics and Language Evolution.
+
+
+{% include figure.liquid
+loading="eager"
+path="assets/img/rhino.png"
+class="img-fluid rounded z-depth-1"
+zoomable=true
+%}
