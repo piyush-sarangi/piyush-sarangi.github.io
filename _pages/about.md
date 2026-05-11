@@ -4,6 +4,8 @@ title: about
 permalink: /
 subtitle: I am a third year Electrical Engineering student at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology, Kharagpur</a>.
 
+<img src="/assets/img/rhino.png" width="180px">
+
 profile:
   align: right
   image: prof_pic.jpg
