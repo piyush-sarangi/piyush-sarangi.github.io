@@ -435,7 +435,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-strange-weather-in-tokyo",
+          title: 'Strange Weather in Tokyo',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/strange_weather/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
