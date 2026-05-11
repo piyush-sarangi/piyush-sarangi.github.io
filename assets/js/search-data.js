@@ -547,13 +547,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/piyush-sarangi/", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.goodreads.com/user/show/57628556-piyush", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
