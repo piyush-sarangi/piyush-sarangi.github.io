@@ -1,10 +1,10 @@
 cv:
-  name: Piyush Sarangi
-  label: Student
-  email: piyushsarangi2013@kgpian.iitkgp.ac.in
-  location: Indian Institute of Technology, Kharagpur
+  name: Albert Einstein
+  label: Scientist
+  email: einstein@example.com
+  location: Princeton, NJ
   image: ""
-  summary: Undergraduate student interested in Computational Historical Linguists and Statistics
+  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
     - network: X
@@ -15,11 +15,11 @@ cv:
       username: example
 
   address:
-    street: Plot No: 1026, Mahanadi Vihar
-    city: Cuttack
-    region: Odisha
-    postalCode: OD 753004
-    countryCode: IND
+    street: 2712 Broadway St
+    city: San Francisco
+    region: California
+    postalCode: CA 94115
+    countryCode: US
 
   sections:
     Education:
