@@ -15,7 +15,7 @@ cv:
       username: example
 
   address:
-    street: Plot No: 1026, Mahanadi Vihar
+    street: Plot No 1026, Mahanadi Vihar
     city: Cuttack
     region: Odisha
     postalCode: OD 753004
@@ -143,7 +143,7 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Odia
         summary: "Native speaker"
 
       - name: English
