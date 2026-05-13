@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am a third year Electrical Engineering student at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology, Kharagpur</a>. I am interested in Computational Linguistics and Historical Linguistics, with a particular focus on language change in Indo-Aryan languages. My current work explores data-driven approaches to Sanskrit–Prakrit sound correspondences and lexical evolution.
+subtitle: I am a third year Electrical Engineering student at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology, Kharagpur</a>. I am interested in Computational Linguistics and Historical Linguistics, with a particular focus on language change in Indo-Aryan languages. My current work explores data-driven approaches to Sanskrit–Prakrit sound correspondences.
 
 
 
