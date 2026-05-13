@@ -46,16 +46,16 @@ cv:
           - Description 1.
           - Description 2.
 
-    Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-        highlights:
-          - Relativity
-          - Description 2.
+   # Experience:
+   #   - company: Institute for Advanced Study, Princeton University
+   #     position: Professor of Theoretical Physics
+   #     location: Princeton University, NJ
+   #     start_date: 1933
+   #     end_date: 1955
+   #     summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+   #     highlights:
+   #       - Relativity
+   #       - Description 2.
 
       #- company: California Institute of Technology
       #  position: Visiting Professor
@@ -72,11 +72,11 @@ cv:
      #   start_date: 1917
      #   end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+     # - company: Karl-Ferdinand University
+     #   position: Professor of Theoretical Physics
+     #   location: Prague, Czechoslovakia
+     #   start_date: 1911
+     #   end_date: 1917
 
       #- company: University of Zurich
       #  position: Associate Professor of Theoretical Physics
@@ -100,8 +100,8 @@ cv:
         authors:
           - "International Linguistics Challenge"
         date: 2026-16-03
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+        awarder: International Linguistics Challenge
+        url: https://lingchallenge.org/en/index
         summary: NIL
 
       #- title: Max Planck Medal
@@ -138,9 +138,9 @@ cv:
 
     Skills:
       - name: Linguistics
-        level: Master
+        level: Undergraduate
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Morphology, Historical Linguistics, Computational Linguistics"
 
     Languages:
       - name: Odia
@@ -156,10 +156,13 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Linguistics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Morphology, Historical Linguistics, Computational Linguistics"
 
+      - name: Statistics
+        keywords: "Bayesian Inference, Markov Chains, Monte Carlo Simulations"
+        
     Certificates:
       - name: Machine Learning
         date: 2018-01-01
