@@ -25,7 +25,7 @@ latest_posts:
   <div class="col-sm-7">
 
   {% include figure.liquid
-  path="assets/img/nasadiya.png"
+  path="assets/img/Nasadiya.png"
   class="img-fluid rounded z-depth-1"
   style="max-width: 100%;"
   zoomable=true
