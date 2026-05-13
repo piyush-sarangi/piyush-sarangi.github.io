@@ -35,7 +35,7 @@ ninja.data = [{
           description: "Course materials, schedules, and resources for classes taught.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/coursework/";
           },
         },{id: "nav-people",
           title: "people",
