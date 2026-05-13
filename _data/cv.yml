@@ -7,7 +7,7 @@ cv:
   summary: A student interested in Computational Linguistics
 
   #social_networks:
-    #- network: Instagram
+    #- network: X
     #  username: AlbertEinstein
     #- network: GitHub
     #  username: example
@@ -57,20 +57,20 @@ cv:
           - Relativity
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
+      #- company: California Institute of Technology
+      #  position: Visiting Professor
+      #  location: Pasadena, California, US
+      #  start_date: 1933
+      #  end_date: 1933
+      #  highlights:
+      #    - Description 1.
+      #    - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+     # - company: Kaiser Wilhelm Institute for Physics
+     #   position: Director
+     #  location: Berlin, Germany
+     #   start_date: 1917
+     #   end_date: 1933
 
       - company: Karl-Ferdinand University
         position: Professor of Theoretical Physics
@@ -137,7 +137,7 @@ cv:
      #   summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
     Skills:
-      - name: Physics
+      - name: Linguistics
         level: Master
         icon: fa-solid fa-hashtag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
@@ -145,7 +145,13 @@ cv:
     Languages:
       - name: Odia
         summary: "Native speaker"
+        
+      - name: Hindi
+        summary: "Near Native"
 
+      - name: Bengali
+        summary: "Intermediate"
+      
       - name: English
         summary: "Fluent"
 
