@@ -27,7 +27,7 @@ latest_posts:
   {% include figure.liquid
   path="assets/img/Nasadiya.png"
   class="img-fluid rounded z-depth-1"
-  style="max-width: 100%;"
+  style="max-width: 180%;"
   zoomable=true
   %}
 
