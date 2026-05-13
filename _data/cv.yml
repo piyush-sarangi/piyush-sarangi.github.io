@@ -6,13 +6,13 @@ cv:
   image: ""
   summary: A student interested in Computational Linguistics
 
-  #social_networks:
-    #- network: X
-    #  username: AlbertEinstein
-    #- network: GitHub
-    #  username: example
-    #- network: LinkedIn
-    #  username: example
+  social_networks:
+    - network: X
+      username: AlbertEinstein
+    - network: GitHub
+      username: example
+    - network: LinkedIn
+      username: example
 
   address:
     street: Plot No 1026, Mahanadi Vihar
@@ -27,7 +27,7 @@ cv:
         location: Kharagpur, West Bengal
         url: https://www.iitkgp.ac.in/
         area: Electrical Engineering
-        studyType: PhD
+        studyType: Bachelor of Technology
         start_date: 2023
         end_date: 2027
         score: ""
