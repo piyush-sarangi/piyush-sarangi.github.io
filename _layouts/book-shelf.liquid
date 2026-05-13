@@ -15,7 +15,7 @@ layout: page
         <h1 id="y{{item.started | date: "%Y"}}">
           <a href="{{ current_year | prepend: '/books/' | relative_url }}">{{ current_year }}</a>
         </h1>
-        <ul>
+        <ul style="display:flex; flex-wrap:wrap; gap:1rem; list-style:none; padding:0;">
           {% assign year = current_year %}
       {% endif %}
 
