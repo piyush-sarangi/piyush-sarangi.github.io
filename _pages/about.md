@@ -34,4 +34,4 @@ latest_posts:
   </div>
 </div>
 
-
+Nāsadīya Sūkta taken from <a href='https://vedaweb.uni-koeln.de/texts/rv/browse/66695ac77dbde8fe2678b34f?ts=1778654170491&res=66695e4a14f6d337f7788740'> VedaWeb </a>
