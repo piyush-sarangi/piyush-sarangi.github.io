@@ -6,13 +6,13 @@ cv:
   image: ""
   summary: A student interested in Computational Linguistics
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+  #social_networks:
+    #- network: Instagram
+    #  username: AlbertEinstein
+    #- network: GitHub
+    #  username: example
+    #- network: LinkedIn
+    #  username: example
 
   address:
     street: Plot No 1026, Mahanadi Vihar
@@ -23,25 +23,25 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: IIT Kharagpur
+        location: Kharagpur, West Bengal
+        url: https://www.iitkgp.ac.in/
+        area: Electrical Engineering
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2023
+        end_date: 2027
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Deep Learning"
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: LR DAV Public School
+        location: Cuttack, Odisha
+        area: Science
+        studyType: Class XII
+        start_date: 2020
+        end_date: 2022
         highlights:
           - Description 1.
           - Description 2.
@@ -78,11 +78,11 @@ cv:
         start_date: 1911
         end_date: 1917
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+      #- company: University of Zurich
+      #  position: Associate Professor of Theoretical Physics
+      #  location: Zurich, Switzerland
+      #  start_date: 1909
+      #  end_date: 1911
 
     #Volunteer:
      # - company: People's Climate March
@@ -96,22 +96,22 @@ cv:
      #     - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Bronze Honour
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
+          - "International Linguistics Challenge"
+        date: 2026-16-03
         awarder: Royal Swedish Academy of Sciences
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        summary: NIL
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      #- title: Max Planck Medal
+      #  authors:
+      #    - "German Physical Society"
+      #  date: 2029
+      #  awarder: German Physical Society
+      #  summary: Awarded for outstanding scientific achievement
 
-    Publications:
+    #Publications:
       #- title: Zur Elektrodynamik bewegter Körper
       #  authors:
       #    - Albert Einstein
