@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /coursework/
 title: coursework
 description: Course materials, schedules, and resources for classes taught.
 nav: true
