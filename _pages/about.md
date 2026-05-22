@@ -5,7 +5,7 @@ permalink: /
 subtitle: Third year Electrical Engineering student at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology, Kharagpur</a>. 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false
 
