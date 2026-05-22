@@ -194,10 +194,31 @@ cv:
       - name: Probably Prakrits - Learning sound change rules from data
         summary: I try to learn the sound change rules from Sanskrit to Middle Indo-Aryan Languages through cognates
         highlights:
-          - Creating Sanskrit - Pali and Sanskrit - Prakrit Corpus in IPA based on various corpuses
-          - Creating a distance metric for Cognate detection based on Levenshtein Algorithm using SoundVectors
+          - Created Sanskrit - Pali and Sanskrit - Prakrit Corpus in IPA based on various corpuses
+          - Created a linguistically informed measure of cognacy based on Levenshtein distance using SoundVectors
         start_date: 2026-05-01
         end_date: Present
+
+      - name: Reduplication in Toto
+        summary: I tried to learn the Reduplication patterns in Toto, a critically endangered Tibeto-Burman language
+        highlights:
+          - Conducted fieldwork
+          - Designed elicitation questionnaire for investigating reduplication
+          - Studied the effects on structural priming on reduplication patterns
+        start_date: 2026-02-01
+        end_date: 2026-04-01
+
+      - name: Code Switching and Code Mixing in IIT Kharagpur
+        summary: I studied the impact of Code Switching and Code Mixing on syntax and morphology in IIT KGP Campus
+        highlights:
+          - Studied Code Switching and Code Mixing for Odia, Hindi, Bengali and English
+          - Transcribed into IPA using rule based G2P using Epitran
+          - Glossed the data using Leipzig glossing
+        start_date: 2024-11-01
+        end_date: 2026-12-01
+
+
+      
 
     #References:
       #- name: Professor John Doe
