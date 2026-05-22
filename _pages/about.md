@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
+  more_info: 
     <p style="text-align:center; font-style:italic; font-size:1.1rem;">
     /pijus sɔɽɔŋgi/
   </p>
