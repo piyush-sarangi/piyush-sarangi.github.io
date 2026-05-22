@@ -12,7 +12,7 @@ profile:
   image_circular: false
 
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
