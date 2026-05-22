@@ -31,7 +31,7 @@ cv:
         start_date: 2023
         end_date: 2027
         score: ""
-        courses: "Deep Learning"
+        #courses: "Deep Learning"
         #highlights:
         #  - Description 1.
         #  - Description 2.
