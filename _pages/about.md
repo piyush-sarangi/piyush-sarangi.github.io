@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info:
-    <p>pijus sɔɽɔŋgi</p>
+    <p style="font-size: 1.4rem; text-align: center;"> /pijus sɔɽɔŋgi/ </p>
 
 selected_papers: false
 social: true
