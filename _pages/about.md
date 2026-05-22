@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: ପୀୟୂଷ ଷଡ଼ଙ୍ଗୀ
+subtitle: '<span style="font-size: 1.4rem;">ପୀୟୂଷ ଷଡ଼ଙ୍ଗୀ</span>'
 
 profile:
   align: right
