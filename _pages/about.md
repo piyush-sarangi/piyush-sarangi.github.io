@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "ପୀୟୂଷ ଷଡ଼ଙ୍ଗୀ"
+subtitle: 
 
 profile:
   align: right
