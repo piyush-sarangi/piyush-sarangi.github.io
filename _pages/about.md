@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Third year Electrical Engineering student at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology, Kharagpur</a>. 
+subtitle: 
 
 profile:
   align: right
