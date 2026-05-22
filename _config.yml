@@ -16,7 +16,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: Piyush Sarangi, IIT Kharagpur, Linguistics, Electrical Engineering, Computational Linguistics, Historical Linguistics # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: fa-solid fa-graduation-cap # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: #fa-solid fa-graduation-cap # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://piyush-sarangi.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
