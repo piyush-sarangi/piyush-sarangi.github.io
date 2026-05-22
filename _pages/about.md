@@ -4,9 +4,9 @@ title: about
 permalink: /
 subtitle: I am a third year Electrical Engineering student at <a href='https://www.iitkgp.ac.in/'>Indian Institute of Technology, Kharagpur</a>.
 
-I am interested in Computational Linguistics and Historical Linguistics. In particular, I am very interested in the Indo-Aryan language family.
+subtitle: I am interested in Computational Linguistics and Historical Linguistics. In particular, I am very interested in the Indo-Aryan language family.
 
-I am also interested in learning about how principles from Linguistics and Neuroscience can give insights into LLMs.
+subtitle: I am also interested in learning about how principles from Linguistics and Neuroscience can give insights into LLMs.
 
 
 
