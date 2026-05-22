@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: ପୀୟୂଷ ଷଡ଼ଙ୍ଗୀ
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>pijus sɔɽɔŋgi</p>
+    <p style="text-align:center; font-style:italic; font-size:1.1rem;">
+    /pijus sɔɽɔŋgi/
+  </p>
 
 selected_papers: false
 social: true
