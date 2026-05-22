@@ -4,7 +4,7 @@ cv:
   email: piyushsarangi2013@gmail.com
   location: Cuttack, Odisha
   image: ""
-  summary: A student interested in Computational Linguistics
+  summary: My interests broadly lie in Computational Linguistics, Evolutionary Linguistics and Statistics
 
   social_networks:
     - network: X
@@ -26,15 +26,15 @@ cv:
       - institution: IIT Kharagpur
         location: Kharagpur, West Bengal
         url: https://www.iitkgp.ac.in/
-        area: Electrical Engineering
+        area: Electrical Engineering, Minor in Computer Science and Engineering
         studyType: Bachelor of Technology
         start_date: 2023
         end_date: 2027
         score: ""
         courses: "Deep Learning"
-        highlights:
-          - Description 1.
-          - Description 2.
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
 
       - institution: LR DAV Public School
         location: Cuttack, Odisha
@@ -42,9 +42,19 @@ cv:
         studyType: Class XII
         start_date: 2020
         end_date: 2022
-        highlights:
-          - Description 1.
-          - Description 2.
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
+
+      - institution: LR DAV Public School
+        location: Cuttack, Odisha
+        area: Science
+        studyType: Class X
+        start_date: 2010
+        end_date: 2020
+        #highlights:
+        #  - Description 1.
+        #  - Description 2.
 
    # Experience:
    #   - company: Institute for Advanced Study, Princeton University
@@ -158,35 +168,36 @@ cv:
     Interests:
       - name: Linguistics
         icon: fa-solid fa-tag
-        keywords: "Morphology, Historical Linguistics, Computational Linguistics"
+        keywords: "Morphology, Historical Linguistics, Computational Linguistics, Typology"
 
       - name: Statistics
+        icon: fa-solid fa-tag
         keywords: "Bayesian Inference, Markov Chains, Monte Carlo Simulations"
         
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: NYI Winter Intensive
+        date: 2026-01-31
+        issuer: The NYI Global Institute of Cultural, Cognitive, and Linguistic Studies
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      #- name: Quantum Computing
+      #  date: 2018-01-01
+      #  issuer: Stanford University
+      #  icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      #- name: Quantum Information
+      #  date: 2018-01-01
+      #  issuer: Stanford University
+      #  icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Probably Prakrits - Learning sound change rules from data
+        summary: I try to learn the sound change rules from Sanskrit to Middle Indo-Aryan Languages through cognates
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Creating Sanskrit - Pali and Sanskrit - Prakrit Corpus in IPA based on various corpuses
+          - Creating a distance metric for Cognate detection based on Levenshtein Algorithm using SoundVectors
+        start_date: 2026-05-01
+        end_date: Present
 
     #References:
       #- name: Professor John Doe
