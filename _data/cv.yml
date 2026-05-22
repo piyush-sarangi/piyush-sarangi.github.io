@@ -42,6 +42,7 @@ cv:
         studyType: Class XII
         start_date: 2020
         end_date: 2022
+        
         #highlights:
         #  - Description 1.
         #  - Description 2.
@@ -112,7 +113,7 @@ cv:
         date: 2026-16-03
         awarder: International Linguistics Challenge
         url: https://lingchallenge.org/en/index
-        summary: NIL
+        summary: This is a Linguistics Problem solving competition open to all students
 
       #- title: Max Planck Medal
       #  authors:
@@ -164,6 +165,12 @@ cv:
       
       - name: English
         summary: "Fluent"
+
+      - name: Sanskrit
+        summary: "Beginner"
+
+      - name: German
+        summary: "Beginner"
 
     Interests:
       - name: Linguistics
@@ -217,8 +224,6 @@ cv:
         start_date: 2024-11-01
         end_date: 2026-12-01
 
-
-      
 
     #References:
       #- name: Professor John Doe
