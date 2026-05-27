@@ -5,7 +5,7 @@ description: This is a list of reviews of some of the courses we have taken at I
 img: assets/img/IIT-KGP.jpg
 importance: 2
 category: resources and reviews
-giscus_comments: true
+giscus_comments: false
 ---
 
 These set of reviews serve two purposes,
