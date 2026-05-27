@@ -64,10 +64,17 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Reviews of some of my recent courses:
+1. <a href="https://drive.google.com/drive/folders/1rf4QWJPNsohFwLW0vpZF5jcE9ScXBsnd">Deep Learning (CS60010)</a>
+2. <a href="https://drive.google.com/drive/folders/1-sAA2qUYxURjYb1ENbtO9Hujua0Dm3NS">Linguistic Typology through Indian Languages (HS61204)</a>
+
+<a href="https://drive.google.com/drive/u/0/folders/19VmydSYoZtOYN3kiomz8kS4-qYY8t0Hu"> Here </a> is complete list of all the courses whose review has been done.
+
+<a href="https://drive.google.com/drive/u/0/folders/19VmydSYoZtOYN3kiomz8kS4-qYY8t0Hu"> Here </a> is actual folder containing all the course reviews. We also attach the TeX files of the course reviews along with the PDFs so that you can easily modify and use it!
+
+This project would never have been possible without the help of many of my friends and juniors who have contributed. A big shout-out to:
+1. Dalli Manideep
+2. Kshitij Sachin Mehta
 
 {% raw %}
 
