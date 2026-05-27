@@ -5,7 +5,7 @@ description: This is a list of reviews of some of the courses we have taken at I
 img: assets/img/IIT-KGP.jpg
 importance: 2
 category: resources and reviews
-giscus_comments: false
+giscus_comments: true
 ---
 
 These set of reviews serve two purposes,
@@ -22,7 +22,7 @@ MITOCW is a big inpsiration for me and probably this idea of creating and sharin
 > And all of a sudden MIT jumped into the mix in 2001, and announced MIT OpenCourseWare — that it was going to take knowledge and resources that used to be behind the walls of elite institutions and not charge for them but give them away for free to the world.
 >
 > And instead of saying ‘how can we profit off of this?’ MIT said, well there are some things that are higher than that.”
-> - Sal Khan at Massachusetts Institute of Technology (2012)
+> -- Sal Khan at Massachusetts Institute of Technology (2012)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -44,6 +44,5 @@ Reviews of some of my recent courses:
 This project would never have been possible without the help of many of my friends and juniors who have contributed. A big shout-out to:
 1. Dalli Manideep
 2. Kshitij Sachin Mehta
-
 
 {% endraw %}
