@@ -13,7 +13,7 @@ These set of reviews serve two purposes,
 1. Firstly, they are very helpful for me to revise stuff later! 
 2. Secondly I hope that they are useful for other students when taking up a course!
    
-These set of reviews also feature two amazing MITOCW course reviews. I hope I can take more of those courses!
+These set of reviews also feature two amazing MITOCW courses. I hope I can take more of those courses!
 
 MITOCW is a big inpsiration for me and probably this idea of creating and sharing course reviews is somehow inspired by them!
 
@@ -25,20 +25,6 @@ MITOCW is a big inpsiration for me and probably this idea of creating and sharin
 > 
 > -- Sal Khan at Massachusetts Institute of Technology (2012)
 
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div> -->
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/IIT-KGP.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -73,7 +59,8 @@ Reviews of some of my recent courses:
 
 <a href="https://drive.google.com/drive/u/0/folders/19VmydSYoZtOYN3kiomz8kS4-qYY8t0Hu"> Here </a> is actual folder containing all the course reviews. We also attach the TeX files of the course reviews along with the PDFs so that you can easily modify and use it!
 
-This project would never have been possible without the help of many of my friends and juniors who have contributed. A big shout-out to:
+This project would never have been possible without the help of many of my friends and juniors who have contributed. A big shout-out to especially:
+
 1. Dalli Manideep
 2. Kshitij Sachin Mehta
 
