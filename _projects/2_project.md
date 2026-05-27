@@ -8,6 +8,23 @@ category: resources and reviews
 giscus_comments: true
 ---
 
+These set of reviews serve two purposes,
+
+1. Firstly, they are very helpful for me to revise stuff later! 
+2. Secondly I hope that they are useful for other students when taking up a course!
+   
+These set of reviews also feature two amazing MITOCW course reviews. I hope I can take more of those courses!
+
+MITOCW is a big inpsiration for me and probably this idea of creating and sharing course reviews is somehow inspired by them!
+
+> “Some of you might remember that in the late nineties when the first internet boom was happening, there was a lot of talk about online education. And most of the talk back then about online education, actually not too different from now, was either about how to profit from it, how to make money off of it, OR as some institutions were thinking, about how to defend against it or at least sit on the sidelines and see how everything played out.
+>
+> And all of a sudden MIT jumped into the mix in 2001, and announced MIT OpenCourseWare — that it was going to take knowledge and resources that used to be behind the walls of elite institutions and not charge for them but give them away for free to the world.
+>
+> And instead of saying ‘how can we profit off of this?’ MIT said, well there are some things that are higher than that.”
+> -- Sal Khan at Massachusetts Institute of Technology (2012)
+
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
