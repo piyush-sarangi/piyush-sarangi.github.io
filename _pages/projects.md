@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some cool stuffs!
 nav: true
 nav_order: 3
-display_categories: [term papers, resources and reviews, code and tools]
+display_categories: [term papers, resources and reviews]
 horizontal: false
 ---
 
