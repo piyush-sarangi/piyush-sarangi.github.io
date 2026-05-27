@@ -18,7 +18,7 @@ These set of reviews also feature two amazing MITOCW courses. I hope I can take 
 1. <a href="https://drive.google.com/drive/u/0/folders/1YZljfUbQO84k6Iw51hqyV2c3_sfmz0hp"> Linear Algebra, 18.06</a>
 2. <a href="https://drive.google.com/drive/u/0/folders/1t5Kz9112kuUuk-mlO8Huz_pYwCXBs9Wf"> Probabilistic Systems Analysis and Applied Probability, 6.041 </a>
 
-MITOCW is a big inpsiration for me and probably this idea of creating and sharing course reviews is somehow inspired by them!
+MITOCW is a big inspiration for me and probably this idea of creating and sharing course reviews is somehow inspired by them!
 
 > “Some of you might remember that in the late nineties when the first internet boom was happening, there was a lot of talk about online education. And most of the talk back then about online education, actually not too different from now, was either about how to profit from it, how to make money off of it, OR as some institutions were thinking, about how to defend against it or at least sit on the sidelines and see how everything played out.
 >
@@ -41,8 +41,10 @@ Here are the reviews of some of recent ones:
 1. <a href="https://drive.google.com/drive/folders/1rf4QWJPNsohFwLW0vpZF5jcE9ScXBsnd">Deep Learning (CS60010)</a>
 2. <a href="https://drive.google.com/drive/folders/1-sAA2qUYxURjYb1ENbtO9Hujua0Dm3NS">Linguistic Typology through Indian Languages (HS61204)</a>
 3. <a href= "https://drive.google.com/drive/u/0/folders/1qWBF_0IWf5qzNDk7GXkk5rKrOXEhM8ii"> Control Systems Engineering (EE319009)</a>
+4. <a href= "https://drive.google.com/drive/u/0/folders/1L1VhWC0jai6AzXBEf_ZpG8yS_oOqwt96"> Introduction to AIML (EE20206)</a>
+5. <a href= "https://drive.google.com/drive/u/0/folders/18MHjdrAdoHRN_zSYDDWgtaeP6i66bddr"> Model Predictive Control with Applications (EE60036)</a>
 
-Find the complete collection <a href="https://drive.google.com/drive/u/0/folders/1hIESK5h04sP682z9XtRt2tAmQ8SXVfRf"> here </a>. We also have attached the TeX files of the course reviews along with the PDFs so that you can easily modify and use it!
+Find the complete collection of 30+ courses <a href="https://drive.google.com/drive/u/0/folders/1hIESK5h04sP682z9XtRt2tAmQ8SXVfRf"> here </a>. We also have attached the TeX files of the course reviews along with the PDFs so that you can easily modify and use it!
 
 This project would never have been possible without the help of so many of my friends. A big shout-out to Dalli Manideep, Kshitij Sachin Mehta and several others who wished to remain anonymous.
 
