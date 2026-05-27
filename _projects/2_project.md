@@ -22,6 +22,7 @@ MITOCW is a big inpsiration for me and probably this idea of creating and sharin
 > And all of a sudden MIT jumped into the mix in 2001, and announced MIT OpenCourseWare — that it was going to take knowledge and resources that used to be behind the walls of elite institutions and not charge for them but give them away for free to the world.
 >
 > And instead of saying ‘how can we profit off of this?’ MIT said, well there are some things that are higher than that.”
+> 
 > -- Sal Khan at Massachusetts Institute of Technology (2012)
 
 
