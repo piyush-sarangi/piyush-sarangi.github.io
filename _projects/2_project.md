@@ -40,7 +40,7 @@ Reviews of some of recent courses that I have taken at IITKGP:
 
 <a href="https://drive.google.com/drive/u/0/folders/19VmydSYoZtOYN3kiomz8kS4-qYY8t0Hu"> Here </a> is complete list of all the courses whose review has been done.
 
-<a href="https://drive.google.com/drive/u/0/folders/19VmydSYoZtOYN3kiomz8kS4-qYY8t0Hu"> Here </a> is actual folder containing all the course reviews. We also attach the TeX files of the course reviews along with the PDFs so that you can easily modify and use it!
+<a href="https://drive.google.com/drive/u/0/folders/1hIESK5h04sP682z9XtRt2tAmQ8SXVfRf"> Here </a> is actual folder containing all the course reviews. We also attach the TeX files of the course reviews along with the PDFs so that you can easily modify and use it!
 
 This project would never have been possible without the help of many of my friends and juniors who have contributed. A big shout-out to especially:
 
