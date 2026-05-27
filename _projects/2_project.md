@@ -34,24 +34,7 @@ MITOCW is a big inpsiration for me and probably this idea of creating and sharin
     <a href="https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-hNsYIjUeXJw">Main Building, Indian Institute of Technology, KGP</a>
 </div>
 
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-Reviews of some of my recent courses:
+Reviews of some of recent courses that I have taken at IITKGP:
 1. <a href="https://drive.google.com/drive/folders/1rf4QWJPNsohFwLW0vpZF5jcE9ScXBsnd">Deep Learning (CS60010)</a>
 2. <a href="https://drive.google.com/drive/folders/1-sAA2qUYxURjYb1ENbtO9Hujua0Dm3NS">Linguistic Typology through Indian Languages (HS61204)</a>
 
