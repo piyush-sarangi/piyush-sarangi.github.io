@@ -59,9 +59,9 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image",
+            },},{id: "projects-iit-kgp-courses-review",
+          title: 'IIT KGP Courses Review',
+          description: "This is a list of reviews of some of the courses we have taken at IITKGP",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
