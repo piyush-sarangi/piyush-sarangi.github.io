@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Control and Instrumentation Laboratory report
+description: This is compiled version of my reports for the course: Control and Instrumentation Laboratory (EE39009),
+Autumn 25–26 at Indian Institute of Technology, Kharagpur.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: resources and reviews
 ---
 
 Every project has a beautiful feature showcase page.
