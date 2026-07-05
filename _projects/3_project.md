@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Control and Instrumentation Laboratory report
-description: This is compiled version of my reports for the course: Control and Instrumentation Laboratory (EE39009),
-Autumn 25–26 at Indian Institute of Technology, Kharagpur.
+title: project 3 with very long name
+description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 1
+redirect: https://www.wikipedia.org/
+importance: 3
 category: resources and reviews
 ---
 
