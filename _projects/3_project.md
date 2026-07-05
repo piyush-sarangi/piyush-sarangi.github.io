@@ -5,7 +5,7 @@ description: This is compiled version of my reports for the course: Control and 
 Autumn 25–26 at Indian Institute of Technology, Kharagpur.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
-importance: 3
+importance: 1
 category: resources and reviews
 ---
 
