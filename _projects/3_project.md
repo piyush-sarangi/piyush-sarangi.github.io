@@ -1,8 +1,7 @@
 ---
 layout: page
 title: project 3 with very long name
-description: This is compiled version of my reports for the course: Control and
-Autumn 25–26 at Indian Institute of Technology, Kharagpur.
+description: This is compiled version of my reports for the course: Control and Autumn 25–26 at Indian Institute of Technology, Kharagpur.
 img: assets/img/7.jpg
 redirect: https://www.wikipedia.org/
 importance: 3
