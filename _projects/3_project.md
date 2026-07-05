@@ -1,9 +1,8 @@
 ---
 layout: page
-title: project 3 with very long name
-description: 
+title: Lab Reports & Notes
+description: Lab reports and notes for some of the courses I have taken at IITKGP
 img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
 importance: 3
 category: resources and reviews
 ---
